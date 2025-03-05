@@ -1,4 +1,4 @@
-package com.mycompany.deposito;
+package cuentas;
 
 public class Main {
 
